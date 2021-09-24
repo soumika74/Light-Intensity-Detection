@@ -7,7 +7,8 @@ Light intensity/incident angle measurement
 
 
 
-Submitted by 	            					      ### Soumika Majumder (1704391)
+Submitted by 	            					      
+Soumika Majumder (1704391)
 
 
 
